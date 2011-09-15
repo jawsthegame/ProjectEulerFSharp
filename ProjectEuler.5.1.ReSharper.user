@@ -9,14 +9,15 @@
   <RecentFiles>
     <RecentFiles>
       <File id="02024F65-1A95-4356-B66C-3A21D8F67845/f:Program.fs" caret="85" fromTop="6" />
-      <File id="02024F65-1A95-4356-B66C-3A21D8F67845/f:Problem1.fs" caret="67" fromTop="5" />
-      <File id="02024F65-1A95-4356-B66C-3A21D8F67845/f:Problem2.fs" caret="53" fromTop="4" />
+      <File id="02024F65-1A95-4356-B66C-3A21D8F67845/f:Problem2.fs" caret="179" fromTop="7" />
+      <File id="02024F65-1A95-4356-B66C-3A21D8F67845/f:Problem1.fs" caret="235" fromTop="11" />
+      <File id="02024F65-1A95-4356-B66C-3A21D8F67845/f:Utils.fs" caret="0" fromTop="0" />
     </RecentFiles>
     <RecentEdits>
-      <File id="02024F65-1A95-4356-B66C-3A21D8F67845/f:Problem1.fs" caret="191" fromTop="9" />
-      <File id="02024F65-1A95-4356-B66C-3A21D8F67845/f:Problem1.fs" caret="67" fromTop="5" />
-      <File id="02024F65-1A95-4356-B66C-3A21D8F67845/f:Program.fs" caret="54" fromTop="5" />
-      <File id="02024F65-1A95-4356-B66C-3A21D8F67845/f:Problem2.fs" caret="53" fromTop="4" />
+      <File id="02024F65-1A95-4356-B66C-3A21D8F67845/f:Program.fs" caret="62" fromTop="5" />
+      <File id="02024F65-1A95-4356-B66C-3A21D8F67845/f:Problem1.fs" caret="235" fromTop="11" />
+      <File id="02024F65-1A95-4356-B66C-3A21D8F67845/f:Problem2.fs" caret="179" fromTop="7" />
+      <File id="02024F65-1A95-4356-B66C-3A21D8F67845/f:Utils.fs" caret="0" fromTop="0" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>

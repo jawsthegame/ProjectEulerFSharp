@@ -9,4 +9,4 @@ let private answers =
             sum + x
             else sum) 0
 
-let run = printfn "%A" answers
+let run = printfn "Answer: %d" answers

@@ -3,5 +3,5 @@ module ProjectEuler.Program
 
 open System
 
-Problem1.run
+Problem2.run
 Console.ReadKey()
